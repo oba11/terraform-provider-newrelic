@@ -3,8 +3,8 @@ package newrelic
 import (
 	"fmt"
 	"log"
-	"strings"
 	"strconv"
+	"strings"
 
 	"github.com/hashicorp/terraform/helper/schema"
 	newrelic "github.com/paultyng/go-newrelic/api"
